@@ -8,6 +8,10 @@
    text-decoration: underline;
 
 }
+#infos{
+    font-size:20px ;
+    color: black;
+}
 #first{
     
     border:1px solid black;
